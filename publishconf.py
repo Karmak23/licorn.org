@@ -14,5 +14,8 @@ DELETE_OUTPUT_DIRECTORY = True
 # Uncomment following line for absolute URLs in production:
 #RELATIVE_URLS = False
 
+FEED_DOMAIN = SITEURL
+FEED_ATOM = 'feeds/atom.xml'
+
 #DISQUS_SITENAME = ""
-#GOOGLE_ANALYTICS = ""
+GOOGLE_ANALYTICS = 'UA-2868362-7'

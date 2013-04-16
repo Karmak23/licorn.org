@@ -5,7 +5,6 @@ import os
 
 AUTHOR = u'Olivier Cort\xe8s'
 SITENAME = u'Licorn\xae: efficient server management'
-SITEURL = 'http://licorn.org'
 
 TIMEZONE = 'Europe/Paris'
 
@@ -30,7 +29,3 @@ LINKS = ((u'Official documentation', 'http://docs.licorn.org/'),
 SOCIAL = ()
 
 DEFAULT_PAGINATION = False
-
-FEED_DOMAIN = SITEURL
-FEED_ATOM = 'feeds/atom.xml'
-GOOGLE_ANALYTICS = 'UA-2868362-7'
